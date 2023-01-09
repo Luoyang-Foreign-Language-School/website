@@ -2,4 +2,5 @@
 ### 如果你是第一次来，请查看[Readme](https://readme.lyfls.top).   
 [win online](https://windows.lyfls.top).     
 [blog](https://blog.lyfls.top).   
+[更新日志](https://log.lyfls.top)    
 [加入我们](https://github.com/Luoyang-Foreign-Language-School).   
