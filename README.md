@@ -3,6 +3,7 @@
 ### [洛阳外国语学校官方网站](https://lyfls.cn).  
 ### [win online](https://windows.lyfls.top).     
 ### [blog](https://blog.lyfls.top).   
+### [通知&公告](https://attantion.lyfls.top)    
 ### [资料共享区](https://ziliao.lyfls.top)    
 ### [更新日志](https://log.lyfls.top)    
 ### [加入我们](https://github.com/Luoyang-Foreign-Language-School).   
