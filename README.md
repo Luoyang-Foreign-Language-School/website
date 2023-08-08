@@ -1,6 +1,7 @@
 # 欢迎来到洛阳外国语学校民间搭建网站
 ### 如果你是第一次来，请查看[Readme](readme/README.md).   
 ### [洛阳外国语学校官方网站](https://lyfls.cn). 
+### [同学群](chat/Readme.md)
 ##  [中考查分](http://www.haeea.cn/shujuzhongxin/).
 ### [win online](https://windows.lyfls.top).     
 ### [blog](https://blog.lyfls.top).   
