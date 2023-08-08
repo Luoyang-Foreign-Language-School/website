@@ -1,43 +1,43 @@
-# ½øÈëÈºÁÄÇë×ñÊØÈº¹æÔò When entering a group chat, please follow the group rules £º
-## ÖĞÎÄ£¨Chinses£©
-1.ÎªÁËÈÃÈºÓÑÃÇ¸üºÃµØ»¥ÏàÈÏÊ¶£¬Çë¸÷Î»ÔÚ¿ªÑ§ºó±¸×¢¼ÓÉÏ°à¼¶£¬Î¥ÕßÌáĞÑ£¬Çë¸öÎ»Îª×Ô¼ºµÄÑÔÂÛ¸ºÔğ£»  
-2.Îª¸ø¸÷Î»ÈºÓÑÓªÔìÁ¼ºÃµÄÁÄÌìÌåÑé£¬±¾Èº½ûÖ¹Ë¢ÆÁ£¬Î¥ÕßµÚÒ»´ÎÌáĞÑ£¬µÚ¶ş´ÎÌß³ö£»  
-3.±¾Èº³ÉÔ±Ó¦ÒÔÓµ»¤ÖĞ¹ú¹²²úµ³Áìµ¼£¬¼ùĞĞÉç»áÖ÷ÒåºËĞÄ¼ÛÖµ¹ÛÎª×ñÖ¼£¬²»µÃ·¢±íÉ«Çé¡¢±©Á¦¡¢ÑªĞÈ¡¢·â½¨ÃÔĞÅ¡¢Î¥·¨·¸×ï¡¢·´¶¯µÈÑÔÂÛ»òÍ¼Æ¬¡¢ÊÓÆµÄÚÈİ£¬Î¥ÕßÌß³öÇÒ²»ÔÊĞíÖØĞÂÈëÈº£»  
-4.ÇëÎÄÃ÷ÓÃÓï£¬½ûÖ¹ÈèÂîËûÈË£¬½ûÖ¹³³¼Ü£¬Î¥Èı´ÎÕßÌß³ö¡£  
-Ï£Íû¸÷Î»ÂåÍâÑ§×ÓÄÜ¹»ÔÚÈºÖĞÊÕ»ñÖªÊ¶Óë¿ìÀÖ£¡  
-## English£¨Ó¢Óï£©
+# è¿›å…¥ç¾¤èŠè¯·éµå®ˆç¾¤è§„åˆ™ When entering a group chat, please follow the group rules ï¼š
+## ä¸­æ–‡ï¼ˆChinsesï¼‰
+1.ä¸ºäº†è®©ç¾¤å‹ä»¬æ›´å¥½åœ°äº’ç›¸è®¤è¯†ï¼Œè¯·å„ä½åœ¨å¼€å­¦åå¤‡æ³¨åŠ ä¸Šç­çº§ï¼Œè¿è€…æé†’ï¼Œè¯·ä¸ªä½ä¸ºè‡ªå·±çš„è¨€è®ºè´Ÿè´£ï¼›  
+2.ä¸ºç»™å„ä½ç¾¤å‹è¥é€ è‰¯å¥½çš„èŠå¤©ä½“éªŒï¼Œæœ¬ç¾¤ç¦æ­¢åˆ·å±ï¼Œè¿è€…ç¬¬ä¸€æ¬¡æé†’ï¼Œç¬¬äºŒæ¬¡è¸¢å‡ºï¼›  
+3.æœ¬ç¾¤æˆå‘˜åº”ä»¥æ‹¥æŠ¤ä¸­å›½å…±äº§å…šé¢†å¯¼ï¼Œè·µè¡Œç¤¾ä¼šä¸»ä¹‰æ ¸å¿ƒä»·å€¼è§‚ä¸ºéµæ—¨ï¼Œä¸å¾—å‘è¡¨è‰²æƒ…ã€æš´åŠ›ã€è¡€è…¥ã€å°å»ºè¿·ä¿¡ã€è¿æ³•çŠ¯ç½ªã€ååŠ¨ç­‰è¨€è®ºæˆ–å›¾ç‰‡ã€è§†é¢‘å†…å®¹ï¼Œè¿è€…è¸¢å‡ºä¸”ä¸å…è®¸é‡æ–°å…¥ç¾¤ï¼›  
+4.è¯·æ–‡æ˜ç”¨è¯­ï¼Œç¦æ­¢è¾±éª‚ä»–äººï¼Œç¦æ­¢åµæ¶ï¼Œè¿ä¸‰æ¬¡è€…è¸¢å‡ºã€‚  
+å¸Œæœ›å„ä½æ´›å¤–å­¦å­èƒ½å¤Ÿåœ¨ç¾¤ä¸­æ”¶è·çŸ¥è¯†ä¸å¿«ä¹ï¼  
+## Englishï¼ˆè‹±è¯­ï¼‰
 1. In order to let the group friends get to know each other better, please add the class in your remarks after the start of school, remind the violators, and please be responsible for your own remarks;
 2. In order to create a good chat experience for all group friends, the group is prohibited from brushing the screen, the violator is reminded for the first time, and kicked out for the second time;
 3. Members of the group shall support the leadership of the Communist Party of China and practice the core socialist values as their purpose, and shall not publish pornographic, violent, bloody, feudal superstition, illegal crimes, reactionary and other remarks or pictures and video content, and violators shall be kicked out and not allowed to rejoin the group;
 4. Please use civilized language, prohibit insulting others, prohibit quarrelling, and kick out if you violate it three times.
 I hope that all Luoyang Foreign Language School students can gain knowledge and happiness in the group!
-## Deutsch£¨µÂÓï£©
-1. Damit sich die Gruppenfreunde besser kennenlernen k?nnen, f¨¹gen Sie bitte die Klasse nach Schulbeginn in Ihre Bemerkungen ein, erinnern Sie die Verletzer und seien Sie bitte f¨¹r Ihre eigenen Bemerkungen verantwortlich;
-2. Um ein gutes Chat-Erlebnis f¨¹r alle Gruppenfreunde zu schaffen, ist es der Gruppe untersagt, den Bildschirm zu b¨¹rsten, der Verletzer wird zum ersten Mal daran erinnert und zum zweiten Mal rausgeworfen.
-3. Die Mitglieder der Gruppe sollen die F¨¹hrung der Kommunistischen Partei Chinas unterst¨¹tzen und die sozialistischen Grundwerte als ihr Ziel praktizieren und d¨¹rfen keine pornografischen, gewaltt?tigen, blutigen, feudalen Aberglauben, illegalen Verbrechen, reaktion?ren und anderen Bemerkungen oder Bilder und Videoinhalte ver?ffentlichen, und Zuwiderhandelnde werden rausgeworfen und d¨¹rfen der Gruppe nicht wieder beitreten;
-4. Bitte verwenden Sie eine zivilisierte Sprache, verbieten Sie die Beleidigung anderer, verbieten Sie Streitereien und werfen Sie raus, wenn Sie dreimal dagegen versto?en.
-Ich hoffe, dass alle Luoyang Fremdsprachen Sch¨¹ler in der Gruppe Wissen und Gl¨¹ck erlangen k?nnen!
-## Fran?ais(·¨Óï)
-1. Afin de permettre aux amis du groupe de mieux se conna?tre, veuillez ajouter la classe dans vos remarques apr¨¨s le d¨¦but de l¡¯¨¦cole, rappeler aux contrevenants et ¨ºtre responsable de vos propres remarques;  
-2. Afin de cr¨¦er une bonne exp¨¦rience de chat pour tous les amis du groupe, il est interdit au groupe de brosser l¡¯¨¦cran, le contrevenant est rappel¨¦ pour la premi¨¨re fois et expuls¨¦ pour la deuxi¨¨me fois;  
-3. Les membres du groupe doivent soutenir la direction du Parti communiste chinois et pratiquer les valeurs socialistes fondamentales comme but, et ne doivent pas publier de superstitions pornographiques, violentes, sanglantes, f¨¦odales, ill¨¦gales, des remarques r¨¦actionnaires et autres ou des images et du contenu vid¨¦o, et les contrevenants doivent ¨ºtre expuls¨¦s et ne pas ¨ºtre autoris¨¦s ¨¤ rejoindre le groupe;  
-4. Veuillez utiliser un langage civilis¨¦, interdire d¡¯insulter les autres, interdire les querelles et expulser si vous le violez trois fois.  
-J¡¯esp¨¨re que tous les ¨¦tudiants de Luowai pourront acqu¨¦rir des connaissances et du bonheur dans le groupe!
-## Espa?ol£¨Î÷°àÑÀÓï£©
-1. Para que los amigos del grupo se conozcan mejor, agregue la clase en sus comentarios despu¨¦s del comienzo de la escuela, recuerde a los infractores y sea responsable de sus propios comentarios;  
+## Deutschï¼ˆå¾·è¯­ï¼‰
+1. Damit sich die Gruppenfreunde besser kennenlernen kÃ¶nnen, fÃ¼gen Sie bitte die Klasse nach Schulbeginn in Ihre Bemerkungen ein, erinnern Sie die Verletzer und seien Sie bitte fÃ¼r Ihre eigenen Bemerkungen verantwortlich;
+2. Um ein gutes Chat-Erlebnis fÃ¼r alle Gruppenfreunde zu schaffen, ist es der Gruppe untersagt, den Bildschirm zu bÃ¼rsten, der Verletzer wird zum ersten Mal daran erinnert und zum zweiten Mal rausgeworfen.
+3. Die Mitglieder der Gruppe sollen die FÃ¼hrung der Kommunistischen Partei Chinas unterstÃ¼tzen und die sozialistischen Grundwerte als ihr Ziel praktizieren und dÃ¼rfen keine pornografischen, gewalttÃ¤tigen, blutigen, feudalen Aberglauben, illegalen Verbrechen, reaktionÃ¤ren und anderen Bemerkungen oder Bilder und Videoinhalte verÃ¶ffentlichen, und Zuwiderhandelnde werden rausgeworfen und dÃ¼rfen der Gruppe nicht wieder beitreten;
+4. Bitte verwenden Sie eine zivilisierte Sprache, verbieten Sie die Beleidigung anderer, verbieten Sie Streitereien und werfen Sie raus, wenn Sie dreimal dagegen verstoÃŸen.
+Ich hoffe, dass alle Luoyang Fremdsprachen SchÃ¼ler in der Gruppe Wissen und GlÃ¼ck erlangen kÃ¶nnen!
+## FranÃ§ais(æ³•è¯­)
+1. Afin de permettre aux amis du groupe de mieux se connaÃ®tre, veuillez ajouter la classe dans vos remarques aprÃ¨s le dÃ©but de lâ€™Ã©cole, rappeler aux contrevenants et Ãªtre responsable de vos propres remarques;  
+2. Afin de crÃ©er une bonne expÃ©rience de chat pour tous les amis du groupe, il est interdit au groupe de brosser lâ€™Ã©cran, le contrevenant est rappelÃ© pour la premiÃ¨re fois et expulsÃ© pour la deuxiÃ¨me fois;  
+3. Les membres du groupe doivent soutenir la direction du Parti communiste chinois et pratiquer les valeurs socialistes fondamentales comme but, et ne doivent pas publier de superstitions pornographiques, violentes, sanglantes, fÃ©odales, illÃ©gales, des remarques rÃ©actionnaires et autres ou des images et du contenu vidÃ©o, et les contrevenants doivent Ãªtre expulsÃ©s et ne pas Ãªtre autorisÃ©s Ã  rejoindre le groupe;  
+4. Veuillez utiliser un langage civilisÃ©, interdire dâ€™insulter les autres, interdire les querelles et expulser si vous le violez trois fois.  
+Jâ€™espÃ¨re que tous les Ã©tudiants de Luowai pourront acquÃ©rir des connaissances et du bonheur dans le groupe!
+## EspaÃ±olï¼ˆè¥¿ç­ç‰™è¯­ï¼‰
+1. Para que los amigos del grupo se conozcan mejor, agregue la clase en sus comentarios despuÃ©s del comienzo de la escuela, recuerde a los infractores y sea responsable de sus propios comentarios;  
 2. Para crear una buena experiencia de chat para todos los amigos del grupo, el grupo tiene prohibido cepillar la pantalla, se recuerda al infractor por primera vez y se expulsa por segunda vez;  
-3. Los miembros del grupo apoyar¨¢n a la direcci¨®n del Partido Comunista de China y practicar¨¢n los valores socialistas fundamentales como su prop¨®sito, y no publicar¨¢n supersticiones pornogr¨¢ficas, violentas, sangrientas, feudales, cr¨ªmenes ilegales, comentarios reaccionarios y de otro tipo o im¨¢genes y contenido de video, y los infractores ser¨¢n expulsados y no se les permitir¨¢ volver a unirse al grupo;  
-4. Por favor, use un lenguaje civilizado, proh¨ªba insultar a otros, proh¨ªba pelear y expulse si lo viola tres veces.  
-?Espero que todos los estudiantes de Luowai puedan obtener conocimiento y felicidad en el grupo!
-## §²§å§ã§ã§Ü§Ú§Û£¨¶íÓï£©
-1. §¥§İ§ñ §ä§à§Ô§à, §é§ä§à§Ò§í §Õ§â§å§Ù§î§ñ §Ô§â§å§á§á§í §İ§å§é§ê§Ö §å§Ù§ß§Ñ§İ§Ú §Õ§â§å§Ô §Õ§â§å§Ô§Ñ, §á§à§Ø§Ñ§İ§å§Û§ã§ä§Ñ, §Õ§à§Ò§Ñ§Ó§î§ä§Ö §Ü§İ§Ñ§ã§ã §Ó §ã§Ó§à§Ú §Ù§Ñ§Ş§Ö§é§Ñ§ß§Ú§ñ §á§à§ã§İ§Ö §ß§Ñ§é§Ñ§İ§Ñ §Ù§Ñ§ß§ñ§ä§Ú§Û, §ß§Ñ§á§à§Ş§ß§Ú§ä§Ö §ß§Ñ§â§å§ê§Ú§ä§Ö§İ§ñ§Ş §Ú, §á§à§Ø§Ñ§İ§å§Û§ã§ä§Ñ, §à§ä§Ó§Ö§é§Ñ§Û§ä§Ö §Ù§Ñ §ã§Ó§à§Ú §Ù§Ñ§Ş§Ö§é§Ñ§ß§Ú§ñ;  
-2. §¹§ä§à§Ò§í §ã§à§Ù§Õ§Ñ§ä§î §ç§à§â§à§ê§Ú§Û §à§á§í§ä §à§Ò§ë§Ö§ß§Ú§ñ §Õ§İ§ñ §Ó§ã§Ö§ç §Õ§â§å§Ù§Ö§Û §Ô§â§å§á§á§í, §Ô§â§å§á§á§Ö §Ù§Ñ§á§â§Ö§ë§Ö§ß§à §é§Ú§ã§ä§Ú§ä§î §ï§Ü§â§Ñ§ß, §ß§Ñ§â§å§ê§Ú§ä§Ö§İ§ğ §ß§Ñ§á§à§Ş§Ú§ß§Ñ§ğ§ä §Ó §á§Ö§â§Ó§í§Û §â§Ñ§Ù §Ú §Ó§í§Ô§à§ß§ñ§ğ§ä §Ó§à §Ó§ä§à§â§à§Û §â§Ñ§Ù;  
-3. §¹§İ§Ö§ß§í §Ô§â§å§á§á§í §Õ§à§İ§Ø§ß§í §á§à§Õ§Õ§Ö§â§Ø§Ú§Ó§Ñ§ä§î §â§å§Ü§à§Ó§à§Õ§ã§ä§Ó§à §¬§à§Ş§Ş§å§ß§Ú§ã§ä§Ú§é§Ö§ã§Ü§à§Û §á§Ñ§â§ä§Ú§Ú §¬§Ú§ä§Ñ§ñ §Ú §á§â§Ñ§Ü§ä§Ú§Ü§à§Ó§Ñ§ä§î §à§ã§ß§à§Ó§ß§í§Ö §ã§à§è§Ú§Ñ§İ§Ú§ã§ä§Ú§é§Ö§ã§Ü§Ú§Ö §è§Ö§ß§ß§à§ã§ä§Ú §Ó §Ü§Ñ§é§Ö§ã§ä§Ó§Ö §ã§Ó§à§Ö§Û §è§Ö§İ§Ú, §Ñ §ä§Ñ§Ü§Ø§Ö §ß§Ö §Õ§à§İ§Ø§ß§í §á§å§Ò§İ§Ú§Ü§à§Ó§Ñ§ä§î §á§à§â§ß§à§Ô§â§Ñ§æ§Ú§é§Ö§ã§Ü§Ú§Ö, §ß§Ñ§ã§Ú§İ§î§ã§ä§Ó§Ö§ß§ß§í§Ö, §Ü§â§à§Ó§Ñ§Ó§í§Ö, §æ§Ö§à§Õ§Ñ§İ§î§ß§í§Ö §ã§å§Ö§Ó§Ö§â§Ú§ñ, §ß§Ö§Ù§Ñ§Ü§à§ß§ß§í§Ö §á§â§Ö§ã§ä§å§á§İ§Ö§ß§Ú§ñ, §â§Ö§Ñ§Ü§è§Ú§à§ß§ß§í§Ö §Ú §Õ§â§å§Ô§Ú§Ö §Ó§í§ã§Ü§Ñ§Ù§í§Ó§Ñ§ß§Ú§ñ §Ú§İ§Ú §æ§à§ä§à§Ô§â§Ñ§æ§Ú§Ú §Ú §Ó§Ú§Õ§Ö§à§Ş§Ñ§ä§Ö§â§Ú§Ñ§İ§í, §Ñ §ß§Ñ§â§å§ê§Ú§ä§Ö§İ§Ö§Û §Ó§í§Ô§à§ß§ñ§ä§î §Ú §ß§Ö §â§Ñ§Ù§â§Ö§ê§Ñ§ä§î §Ú§Ş §Ó§à§Ù§Ó§â§Ñ§ë§Ñ§ä§î§ã§ñ §Ó §Ô§â§å§á§á§å;  
-4. §±§à§Ø§Ñ§İ§å§Û§ã§ä§Ñ, §Ú§ã§á§à§İ§î§Ù§å§Û§ä§Ö §è§Ú§Ó§Ú§İ§Ú§Ù§à§Ó§Ñ§ß§ß§í§Û §ñ§Ù§í§Ü, §Ù§Ñ§á§â§Ö§ë§Ñ§Û§ä§Ö §à§ã§Ü§à§â§Ò§İ§ñ§ä§î §Õ§â§å§Ô§Ú§ç, §Ù§Ñ§á§â§Ö§ë§Ñ§Û§ä§Ö §ã§ã§à§â§Ú§ä§î§ã§ñ §Ú §Ó§í§Ô§à§ß§ñ§Û§ä§Ö, §Ö§ã§İ§Ú §Ó§í §ß§Ñ§â§å§ê§Ñ§Ö§ä§Ö §Ö§Ô§à §ä§â§Ú §â§Ñ§Ù§Ñ.  
-§Á §ß§Ñ§Õ§Ö§ğ§ã§î, §é§ä§à §Ó§ã§Ö §å§é§Ö§ß§Ú§Ü§Ú §­§å§à§Ó§Ñ§Û §ã§Ş§à§Ô§å§ä §á§à§İ§å§é§Ú§ä§î §Ù§ß§Ñ§ß§Ú§ñ §Ú §ã§é§Ñ§ã§ä§î§Ö §Ó §Ô§â§å§á§á§Ö!
-## ÈÕ±¾ÕZ£¨ÈÕÓï£©
-1.¥°¥ë©`¥×¤ÎÓÑß_¤¬¤ª»¥¤¤¤ò¤è¤ê¤è¤¯Öª¤ë¤³¤È¤¬¤Ç¤­¤ë¤è¤¦¤Ë¡¢Ñ§Ğ£¤Îé_Ê¼áá¤Ë¤¢¤Ê¤¿¤Î°kÑÔ¤Ë¥¯¥é¥¹¤ò×·¼Ó¤·¡¢ß`·´Õß¤ËË¼¤¤³ö¤µ¤»¡¢¤¢¤Ê¤¿×ÔÉí¤Î°kÑÔ¤ËØŸÈÎ¤ò³Ö¤Ã¤Æ¤¯¤À¤µ¤¤¡£  
-2.¤¹¤Ù¤Æ¤Î¥°¥ë©`¥×¤ÎÓÑß_¤ËÁ¼¤¤¥Á¥ã¥Ã¥ÈÌåòY¤òÌá¹©¤¹¤ë¤¿¤á¤Ë¡¢¥°¥ë©`¥×¤Ï»­Ãæ¤ò¥Ö¥é¥Ã¥·¥ó¥°¤¹¤ë¤³¤È¤ò½ûÖ¹¤µ¤ì¡¢ß`·´Õß¤Ï×î³õ¤ËÍ¨Öª¤µ¤ì¡¢2»ØÄ¿¤Ë×·¤¤³ö¤µ¤ì¤Ş¤¹¡£  
-3.¥°¥ë©`¥×¤Î¥á¥ó¥Ğ©`¤Ï¡¢ÖĞ¹ú¹²®bµ³¤ÎÖ¸Œ§¤òÖ§³Ö¤·¡¢¤½¤ÎÄ¿µÄ¤È¤·¤ÆÖĞºËµÄ¤ÊÉç»áÖ÷ÁxµÄı‚ÓQ¤òŒg¼ù¤·¡¢¥İ¥ë¥Î¡¢±©Á¦µÄ¡¢Ñª¤Ê¤Ş¤°¤µ¤¤¡¢·â½¨µÄ¤ÊÃÔĞÅ¡¢ß`·¨·¸×ï¡¢·´„ÓµÄ¤ª¤è¤Ó¤½¤ÎËû¤Î°kÑÔ¤Ş¤¿¤ÏĞ´Õæ¤ª¤è¤Ó¥Ó¥Ç¥ª¥³¥ó¥Æ¥ó¥Ä¤ò¹«é_¤·¤Æ¤Ï¤Ê¤é¤º¡¢ß`·´Õß¤Ï×·¤¤³ö¤µ¤ì¡¢¥°¥ë©`¥×¤ËÔÙ¤Ó²Î¼Ó¤¹¤ë¤³¤È¤Ï¤Ç¤­¤Ş¤»¤ó¡£  
-4.ÎÄÃ÷µÄ¤ÊÑÔÈ~¤òÊ¹ÓÃ¤·¡¢ËûÈË¤òÎêÈè¤¹¤ë¤³¤È¤ò½ûÖ¹¤·¡¢Ğú‡W¤ò½ûÖ¹¤·¡¢3»Øß`·´¤·¤¿ˆöºÏ¤Ï×·¤¤³ö¤·¤Æ¤¯¤À¤µ¤¤¡£  
-¤¹¤Ù¤Æ¤ÎLuowai¤ÎÑ§Éú¤¬¥°¥ë©`¥×¤ÇÖª×R¤ÈĞÒ¤»¤òµÃ¤ë¤³¤È¤¬¤Ç¤­¤ë¤³¤È¤òîŠ¤Ã¤Æ¤¤¤Ş¤¹!  
+3. Los miembros del grupo apoyarÃ¡n a la direcciÃ³n del Partido Comunista de China y practicarÃ¡n los valores socialistas fundamentales como su propÃ³sito, y no publicarÃ¡n supersticiones pornogrÃ¡ficas, violentas, sangrientas, feudales, crÃ­menes ilegales, comentarios reaccionarios y de otro tipo o imÃ¡genes y contenido de video, y los infractores serÃ¡n expulsados y no se les permitirÃ¡ volver a unirse al grupo;  
+4. Por favor, use un lenguaje civilizado, prohÃ­ba insultar a otros, prohÃ­ba pelear y expulse si lo viola tres veces.  
+Â¡Espero que todos los estudiantes de Luowai puedan obtener conocimiento y felicidad en el grupo!
+## Ğ ÑƒÑÑĞºĞ¸Ğ¹ï¼ˆä¿„è¯­ï¼‰
+1. Ğ”Ğ»Ñ Ñ‚Ğ¾Ğ³Ğ¾, Ñ‡Ñ‚Ğ¾Ğ±Ñ‹ Ğ´Ñ€ÑƒĞ·ÑŒÑ Ğ³Ñ€ÑƒĞ¿Ğ¿Ñ‹ Ğ»ÑƒÑ‡ÑˆĞµ ÑƒĞ·Ğ½Ğ°Ğ»Ğ¸ Ğ´Ñ€ÑƒĞ³ Ğ´Ñ€ÑƒĞ³Ğ°, Ğ¿Ğ¾Ğ¶Ğ°Ğ»ÑƒĞ¹ÑÑ‚Ğ°, Ğ´Ğ¾Ğ±Ğ°Ğ²ÑŒÑ‚Ğµ ĞºĞ»Ğ°ÑÑ Ğ² ÑĞ²Ğ¾Ğ¸ Ğ·Ğ°Ğ¼ĞµÑ‡Ğ°Ğ½Ğ¸Ñ Ğ¿Ğ¾ÑĞ»Ğµ Ğ½Ğ°Ñ‡Ğ°Ğ»Ğ° Ğ·Ğ°Ğ½ÑÑ‚Ğ¸Ğ¹, Ğ½Ğ°Ğ¿Ğ¾Ğ¼Ğ½Ğ¸Ñ‚Ğµ Ğ½Ğ°Ñ€ÑƒÑˆĞ¸Ñ‚ĞµĞ»ÑĞ¼ Ğ¸, Ğ¿Ğ¾Ğ¶Ğ°Ğ»ÑƒĞ¹ÑÑ‚Ğ°, Ğ¾Ñ‚Ğ²ĞµÑ‡Ğ°Ğ¹Ñ‚Ğµ Ğ·Ğ° ÑĞ²Ğ¾Ğ¸ Ğ·Ğ°Ğ¼ĞµÑ‡Ğ°Ğ½Ğ¸Ñ;  
+2. Ğ§Ñ‚Ğ¾Ğ±Ñ‹ ÑĞ¾Ğ·Ğ´Ğ°Ñ‚ÑŒ Ñ…Ğ¾Ñ€Ğ¾ÑˆĞ¸Ğ¹ Ğ¾Ğ¿Ñ‹Ñ‚ Ğ¾Ğ±Ñ‰ĞµĞ½Ğ¸Ñ Ğ´Ğ»Ñ Ğ²ÑĞµÑ… Ğ´Ñ€ÑƒĞ·ĞµĞ¹ Ğ³Ñ€ÑƒĞ¿Ğ¿Ñ‹, Ğ³Ñ€ÑƒĞ¿Ğ¿Ğµ Ğ·Ğ°Ğ¿Ñ€ĞµÑ‰ĞµĞ½Ğ¾ Ñ‡Ğ¸ÑÑ‚Ğ¸Ñ‚ÑŒ ÑĞºÑ€Ğ°Ğ½, Ğ½Ğ°Ñ€ÑƒÑˆĞ¸Ñ‚ĞµĞ»Ñ Ğ½Ğ°Ğ¿Ğ¾Ğ¼Ğ¸Ğ½Ğ°ÑÑ‚ Ğ² Ğ¿ĞµÑ€Ğ²Ñ‹Ğ¹ Ñ€Ğ°Ğ· Ğ¸ Ğ²Ñ‹Ğ³Ğ¾Ğ½ÑÑÑ‚ Ğ²Ğ¾ Ğ²Ñ‚Ğ¾Ñ€Ğ¾Ğ¹ Ñ€Ğ°Ğ·;  
+3. Ğ§Ğ»ĞµĞ½Ñ‹ Ğ³Ñ€ÑƒĞ¿Ğ¿Ñ‹ Ğ´Ğ¾Ğ»Ğ¶Ğ½Ñ‹ Ğ¿Ğ¾Ğ´Ğ´ĞµÑ€Ğ¶Ğ¸Ğ²Ğ°Ñ‚ÑŒ Ñ€ÑƒĞºĞ¾Ğ²Ğ¾Ğ´ÑÑ‚Ğ²Ğ¾ ĞšĞ¾Ğ¼Ğ¼ÑƒĞ½Ğ¸ÑÑ‚Ğ¸Ñ‡ĞµÑĞºĞ¾Ğ¹ Ğ¿Ğ°Ñ€Ñ‚Ğ¸Ğ¸ ĞšĞ¸Ñ‚Ğ°Ñ Ğ¸ Ğ¿Ñ€Ğ°ĞºÑ‚Ğ¸ĞºĞ¾Ğ²Ğ°Ñ‚ÑŒ Ğ¾ÑĞ½Ğ¾Ğ²Ğ½Ñ‹Ğµ ÑĞ¾Ñ†Ğ¸Ğ°Ğ»Ğ¸ÑÑ‚Ğ¸Ñ‡ĞµÑĞºĞ¸Ğµ Ñ†ĞµĞ½Ğ½Ğ¾ÑÑ‚Ğ¸ Ğ² ĞºĞ°Ñ‡ĞµÑÑ‚Ğ²Ğµ ÑĞ²Ğ¾ĞµĞ¹ Ñ†ĞµĞ»Ğ¸, Ğ° Ñ‚Ğ°ĞºĞ¶Ğµ Ğ½Ğµ Ğ´Ğ¾Ğ»Ğ¶Ğ½Ñ‹ Ğ¿ÑƒĞ±Ğ»Ğ¸ĞºĞ¾Ğ²Ğ°Ñ‚ÑŒ Ğ¿Ğ¾Ñ€Ğ½Ğ¾Ğ³Ñ€Ğ°Ñ„Ğ¸Ñ‡ĞµÑĞºĞ¸Ğµ, Ğ½Ğ°ÑĞ¸Ğ»ÑŒÑÑ‚Ğ²ĞµĞ½Ğ½Ñ‹Ğµ, ĞºÑ€Ğ¾Ğ²Ğ°Ğ²Ñ‹Ğµ, Ñ„ĞµĞ¾Ğ´Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ ÑÑƒĞµĞ²ĞµÑ€Ğ¸Ñ, Ğ½ĞµĞ·Ğ°ĞºĞ¾Ğ½Ğ½Ñ‹Ğµ Ğ¿Ñ€ĞµÑÑ‚ÑƒĞ¿Ğ»ĞµĞ½Ğ¸Ñ, Ñ€ĞµĞ°ĞºÑ†Ğ¸Ğ¾Ğ½Ğ½Ñ‹Ğµ Ğ¸ Ğ´Ñ€ÑƒĞ³Ğ¸Ğµ Ğ²Ñ‹ÑĞºĞ°Ğ·Ñ‹Ğ²Ğ°Ğ½Ğ¸Ñ Ğ¸Ğ»Ğ¸ Ñ„Ğ¾Ñ‚Ğ¾Ğ³Ñ€Ğ°Ñ„Ğ¸Ğ¸ Ğ¸ Ğ²Ğ¸Ğ´ĞµĞ¾Ğ¼Ğ°Ñ‚ĞµÑ€Ğ¸Ğ°Ğ»Ñ‹, Ğ° Ğ½Ğ°Ñ€ÑƒÑˆĞ¸Ñ‚ĞµĞ»ĞµĞ¹ Ğ²Ñ‹Ğ³Ğ¾Ğ½ÑÑ‚ÑŒ Ğ¸ Ğ½Ğµ Ñ€Ğ°Ğ·Ñ€ĞµÑˆĞ°Ñ‚ÑŒ Ğ¸Ğ¼ Ğ²Ğ¾Ğ·Ğ²Ñ€Ğ°Ñ‰Ğ°Ñ‚ÑŒÑÑ Ğ² Ğ³Ñ€ÑƒĞ¿Ğ¿Ñƒ;  
+4. ĞŸĞ¾Ğ¶Ğ°Ğ»ÑƒĞ¹ÑÑ‚Ğ°, Ğ¸ÑĞ¿Ğ¾Ğ»ÑŒĞ·ÑƒĞ¹Ñ‚Ğµ Ñ†Ğ¸Ğ²Ğ¸Ğ»Ğ¸Ğ·Ğ¾Ğ²Ğ°Ğ½Ğ½Ñ‹Ğ¹ ÑĞ·Ñ‹Ğº, Ğ·Ğ°Ğ¿Ñ€ĞµÑ‰Ğ°Ğ¹Ñ‚Ğµ Ğ¾ÑĞºĞ¾Ñ€Ğ±Ğ»ÑÑ‚ÑŒ Ğ´Ñ€ÑƒĞ³Ğ¸Ñ…, Ğ·Ğ°Ğ¿Ñ€ĞµÑ‰Ğ°Ğ¹Ñ‚Ğµ ÑÑĞ¾Ñ€Ğ¸Ñ‚ÑŒÑÑ Ğ¸ Ğ²Ñ‹Ğ³Ğ¾Ğ½ÑĞ¹Ñ‚Ğµ, ĞµÑĞ»Ğ¸ Ğ²Ñ‹ Ğ½Ğ°Ñ€ÑƒÑˆĞ°ĞµÑ‚Ğµ ĞµĞ³Ğ¾ Ñ‚Ñ€Ğ¸ Ñ€Ğ°Ğ·Ğ°.  
+Ğ¯ Ğ½Ğ°Ğ´ĞµÑÑÑŒ, Ñ‡Ñ‚Ğ¾ Ğ²ÑĞµ ÑƒÑ‡ĞµĞ½Ğ¸ĞºĞ¸ Ğ›ÑƒĞ¾Ğ²Ğ°Ğ¹ ÑĞ¼Ğ¾Ğ³ÑƒÑ‚ Ğ¿Ğ¾Ğ»ÑƒÑ‡Ğ¸Ñ‚ÑŒ Ğ·Ğ½Ğ°Ğ½Ğ¸Ñ Ğ¸ ÑÑ‡Ğ°ÑÑ‚ÑŒĞµ Ğ² Ğ³Ñ€ÑƒĞ¿Ğ¿Ğµ!
+## æ—¥æœ¬èªï¼ˆæ—¥è¯­ï¼‰
+1.ã‚°ãƒ«ãƒ¼ãƒ—ã®å‹é”ãŒãŠäº’ã„ã‚’ã‚ˆã‚Šã‚ˆãçŸ¥ã‚‹ã“ã¨ãŒã§ãã‚‹ã‚ˆã†ã«ã€å­¦æ ¡ã®é–‹å§‹å¾Œã«ã‚ãªãŸã®ç™ºè¨€ã«ã‚¯ãƒ©ã‚¹ã‚’è¿½åŠ ã—ã€é•åè€…ã«æ€ã„å‡ºã•ã›ã€ã‚ãªãŸè‡ªèº«ã®ç™ºè¨€ã«è²¬ä»»ã‚’æŒã£ã¦ãã ã•ã„ã€‚  
+2.ã™ã¹ã¦ã®ã‚°ãƒ«ãƒ¼ãƒ—ã®å‹é”ã«è‰¯ã„ãƒãƒ£ãƒƒãƒˆä½“é¨“ã‚’æä¾›ã™ã‚‹ãŸã‚ã«ã€ã‚°ãƒ«ãƒ¼ãƒ—ã¯ç”»é¢ã‚’ãƒ–ãƒ©ãƒƒã‚·ãƒ³ã‚°ã™ã‚‹ã“ã¨ã‚’ç¦æ­¢ã•ã‚Œã€é•åè€…ã¯æœ€åˆã«é€šçŸ¥ã•ã‚Œã€2å›ç›®ã«è¿½ã„å‡ºã•ã‚Œã¾ã™ã€‚  
+3.ã‚°ãƒ«ãƒ¼ãƒ—ã®ãƒ¡ãƒ³ãƒãƒ¼ã¯ã€ä¸­å›½å…±ç”£å…šã®æŒ‡å°ã‚’æ”¯æŒã—ã€ãã®ç›®çš„ã¨ã—ã¦ä¸­æ ¸çš„ãªç¤¾ä¼šä¸»ç¾©çš„ä¾¡å€¤è¦³ã‚’å®Ÿè·µã—ã€ãƒãƒ«ãƒã€æš´åŠ›çš„ã€è¡€ãªã¾ãã•ã„ã€å°å»ºçš„ãªè¿·ä¿¡ã€é•æ³•çŠ¯ç½ªã€åå‹•çš„ãŠã‚ˆã³ãã®ä»–ã®ç™ºè¨€ã¾ãŸã¯å†™çœŸãŠã‚ˆã³ãƒ“ãƒ‡ã‚ªã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã‚’å…¬é–‹ã—ã¦ã¯ãªã‚‰ãšã€é•åè€…ã¯è¿½ã„å‡ºã•ã‚Œã€ã‚°ãƒ«ãƒ¼ãƒ—ã«å†ã³å‚åŠ ã™ã‚‹ã“ã¨ã¯ã§ãã¾ã›ã‚“ã€‚  
+4.æ–‡æ˜çš„ãªè¨€è‘‰ã‚’ä½¿ç”¨ã—ã€ä»–äººã‚’ä¾®è¾±ã™ã‚‹ã“ã¨ã‚’ç¦æ­¢ã—ã€å–§å˜©ã‚’ç¦æ­¢ã—ã€3å›é•åã—ãŸå ´åˆã¯è¿½ã„å‡ºã—ã¦ãã ã•ã„ã€‚  
+ã™ã¹ã¦ã®Luowaiã®å­¦ç”ŸãŒã‚°ãƒ«ãƒ¼ãƒ—ã§çŸ¥è­˜ã¨å¹¸ã›ã‚’å¾—ã‚‹ã“ã¨ãŒã§ãã‚‹ã“ã¨ã‚’é¡˜ã£ã¦ã„ã¾ã™!  
